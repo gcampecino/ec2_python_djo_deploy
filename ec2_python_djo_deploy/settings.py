@@ -127,7 +127,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 ALLOWED_HOSTS = ['172.17.0.2']
 CORS_ALLOWED_ORIGINS = [
-    "54.91.171.243",
-    "54.91.171.243:81",
+    "http://54.91.171.243",
+    "http://54.91.171.243:81",
 ]
 CSRF_TRUSTED_ORIGINS = ['54.91.171.243:81', '54.91.171.243']
